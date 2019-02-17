@@ -1,0 +1,14 @@
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.csprojAssemblyReference.cache
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.csproj.CoreCompileInputs.cache
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\bin\Debug\IleJeszczeWPracy.exe.config
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\bin\Debug\IleJeszczeWPracy.exe
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\bin\Debug\IleJeszczeWPracy.pdb
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.exe
+c:\users\slowi\source\repos\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.pdb
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\bin\Debug\IleJeszczeWPracy.exe.config
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\bin\Debug\IleJeszczeWPracy.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\bin\Debug\IleJeszczeWPracy.pdb
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.csprojAssemblyReference.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.csproj.CoreCompileInputs.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\IleJeszczeWPracy\IleJeszczeWPracy\obj\Debug\IleJeszczeWPracy.pdb
